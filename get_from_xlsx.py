@@ -14,31 +14,50 @@ print("Repo dir:", REPO_DIR)
 print("Is dir?", os.path.isdir(REPO_DIR))
 df = pd.read_excel(XLSX_FILE)
 
-columns = ["Title", "Author", "My Rating", "Average Rating", "Publisher", "Year Published", "Bookshelves", "Date Read"]
+columns = ["Title", "Author", "My Rating", "Average Rating", "Exclusive Shelf", "Date Read"]
 df = df[columns]
 df['Date Read'] = pd.to_datetime(df['Date Read'], errors='coerce').dt.date
-df = df[df['Date Read'].notna()]  # Keep only books with a read date
+read_df = df[df['Date Read'].notna()]  # Keep only books with a read date
 df = df.fillna("")
+read_df=read_df[read_df['Exclusive Shelf'] == 'read']
 
-md_lines = []
-md_lines.append(f"# My Books\n")
-md_lines.append(f"_Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}_\n")
-md_lines.append("\n")
 
-md_lines.append("| Title | Author | My Rating | Avg Rating |  Date Read |")
-md_lines.append("|-------|--------|-----------|------------|------------|")
+read_books = []
+read_books.append(f"# Bash Books\n")
+read_books.append(f"_Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}_\n")
+read_books.append("\n")
 
-for _, row in df.iterrows():
-    md_lines.append(
+read_books.append("| Title | Author | My Rating | Avg Rating |  Date Read |")
+read_books.append("|-------|--------|-----------|------------|------------|")
+
+for _, row in read_df.iterrows():
+    read_books.append(
         f"| {row['Title']} | {row['Author']} | {row['My Rating']} | {row['Average Rating']} "
         f"| {row['Date Read']} |"
     )
 
-md_content = "\n".join(md_lines)
+md_content = "\n".join(read_books)
 
 output_path = os.path.join(REPO_DIR, OUTPUT_FILE)
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(md_content)
+
+
+to_read_df = df[df['Exclusive Shelf'] == 'to-read']
+if not to_read_df.empty:
+    to_read_books = []
+    to_read_books.append(f"\n# To Read\n")
+    to_read_books.append("| Title | Author | My Rating | Avg Rating |")
+    to_read_books.append("|-------|--------|-----------|------------|")
+
+    for _, row in to_read_df.iterrows():
+        to_read_books.append(
+            f"| {row['Title']} | {row['Author']} | {row['My Rating']} | {row['Average Rating']} |"
+        )
+
+    md_to_read_content = "\n".join(to_read_books)
+    with open(output_path, "a", encoding="utf-8") as f:
+        f.write(md_to_read_content)
 
 print(f"Markdown file generated at {output_path}")
 repo = Repo(REPO_DIR)
