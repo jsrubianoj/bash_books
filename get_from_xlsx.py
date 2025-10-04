@@ -47,12 +47,12 @@ to_read_df = df[df['Exclusive Shelf'] == 'to-read']
 if not to_read_df.empty:
     to_read_books = []
     to_read_books.append(f"\n# To Read\n")
-    to_read_books.append("| Title | Author | My Rating | Avg Rating |")
-    to_read_books.append("|-------|--------|-----------|------------|")
+    to_read_books.append("| Title | Author |")
+    to_read_books.append("|-------|--------|")
 
     for _, row in to_read_df.iterrows():
         to_read_books.append(
-            f"| {row['Title']} | {row['Author']} | {row['My Rating']} | {row['Average Rating']} |"
+            f"| {row['Title']} | {row['Author']} |"
         )
 
     md_to_read_content = "\n".join(to_read_books)

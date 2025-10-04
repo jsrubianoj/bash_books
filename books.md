@@ -1,6 +1,6 @@
 # Bash Books
 
-_Last updated: 2025-10-04 11:08:30_
+_Last updated: 2025-10-04 11:12:00_
 
 
 
@@ -96,39 +96,39 @@ _Last updated: 2025-10-04 11:08:30_
 | Días sin ti | Elvira Sastre | 5 | 4.07 | 2024-05-04 |
 # To Read
 
-| Title | Author | My Rating | Avg Rating |
-|-------|--------|-----------|------------|
-| Persona normal | Benito Taibo | 0 | 4.37 |
-| Gracias | Pablo Katchadjian | 0 | 4.05 |
-| Afterlives | Abdulrazak Gurnah | 0 | 3.77 |
-| The Making of the Atomic Bomb | Richard Rhodes | 0 | 4.4 |
-| La tregua | Mario Benedetti | 0 | 4.17 |
-| Kafka on the Shore | Haruki Murakami | 0 | 4.12 |
-| Sea of Tranquility | Emily St. John Mandel | 0 | 4.06 |
-| Violeta | Isabel Allende | 0 | 4.03 |
-| Food of the Gods: The Search for the Original Tree of Knowledge | Terence McKenna | 0 | 4.12 |
-| Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures | Merlin Sheldrake | 0 | 4.33 |
-| La noche de la Usina | Eduardo Sacheri | 0 | 4.28 |
-| Una novela criminal | Jorge Volpi | 0 | 4.12 |
-| It's Kind of a Funny Story | Ned Vizzini | 0 | 4.07 |
-| The War of the End of the World | Mario Vargas Llosa | 0 | 4.25 |
-| Sobre héroes y tumbas | Ernesto Sabato | 0 | 4.27 |
-| Pedro Páramo / El llano en llamas | Juan Rulfo | 0 | 4.28 |
-| La campana de cristal | Sylvia Plath | 0 | 4.05 |
-| Astounding Science-Fiction, March 1942 | John W. Campbell Jr. | 0 | 3.94 |
-| El misterioso Mr. Brown  (Tommy y Tuppence, #1) | Agatha Christie | 0 | 3.84 |
-| El cazador de historias | Eduardo Galeano | 0 | 4.07 |
-| Retrato en sepia | Isabel Allende | 0 | 4.02 |
-| Cóndores no entierran todos los días | Gustavo Álvarez Gardeazábal | 0 | 3.87 |
-| El enigma de París (El enigma de París #1) | Pablo De Santis | 0 | 3.33 |
-| Todos los jóvenes tristes y literarios | Keith Gessen | 0 | 2.92 |
-| Demasiados héroes | Laura Restrepo | 0 | 3.63 |
-| La sombra del viento (El cementerio de los libros olvidados, #1) | Carlos Ruiz Zafón | 0 | 4.31 |
-| Érase una vez el amor pero tuve que matarlo. Música de Sex Pistols y Nirvana | Efraim Medina Reyes | 0 | 3.63 |
-| Pride and Prejudice | Jane Austen | 0 | 4.29 |
-| Vista desde una acera | Fernando Molano Vargas | 0 | 4.64 |
-| Crimen y castigo | Fyodor Dostoevsky | 0 | 4.37 |
-| Paula | Isabel Allende | 0 | 4.22 |
-| El cartel de los sapos | Andrés López López | 0 | 3.61 |
-| Go Set a Watchman | Harper Lee | 0 | 3.31 |
-| The Great Gatsby | F. Scott Fitzgerald | 0 | 3.93 |
+| Title | Author |
+|-------|--------|
+| Persona normal | Benito Taibo |
+| Gracias | Pablo Katchadjian |
+| Afterlives | Abdulrazak Gurnah |
+| The Making of the Atomic Bomb | Richard Rhodes |
+| La tregua | Mario Benedetti |
+| Kafka on the Shore | Haruki Murakami |
+| Sea of Tranquility | Emily St. John Mandel |
+| Violeta | Isabel Allende |
+| Food of the Gods: The Search for the Original Tree of Knowledge | Terence McKenna |
+| Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures | Merlin Sheldrake |
+| La noche de la Usina | Eduardo Sacheri |
+| Una novela criminal | Jorge Volpi |
+| It's Kind of a Funny Story | Ned Vizzini |
+| The War of the End of the World | Mario Vargas Llosa |
+| Sobre héroes y tumbas | Ernesto Sabato |
+| Pedro Páramo / El llano en llamas | Juan Rulfo |
+| La campana de cristal | Sylvia Plath |
+| Astounding Science-Fiction, March 1942 | John W. Campbell Jr. |
+| El misterioso Mr. Brown  (Tommy y Tuppence, #1) | Agatha Christie |
+| El cazador de historias | Eduardo Galeano |
+| Retrato en sepia | Isabel Allende |
+| Cóndores no entierran todos los días | Gustavo Álvarez Gardeazábal |
+| El enigma de París (El enigma de París #1) | Pablo De Santis |
+| Todos los jóvenes tristes y literarios | Keith Gessen |
+| Demasiados héroes | Laura Restrepo |
+| La sombra del viento (El cementerio de los libros olvidados, #1) | Carlos Ruiz Zafón |
+| Érase una vez el amor pero tuve que matarlo. Música de Sex Pistols y Nirvana | Efraim Medina Reyes |
+| Pride and Prejudice | Jane Austen |
+| Vista desde una acera | Fernando Molano Vargas |
+| Crimen y castigo | Fyodor Dostoevsky |
+| Paula | Isabel Allende |
+| El cartel de los sapos | Andrés López López |
+| Go Set a Watchman | Harper Lee |
+| The Great Gatsby | F. Scott Fitzgerald |
