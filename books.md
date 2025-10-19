@@ -1,6 +1,6 @@
 # Bash Books
 
-_Last updated: 2025-10-04 11:12:00_
+_Last updated: 2025-10-19 14:55:00_
 
 
 
@@ -94,6 +94,7 @@ _Last updated: 2025-10-04 11:12:00_
 | How to Change Your Mind: The New Science of Psychedelics | Michael Pollan | 4 | 4.27 | 2024-06-06 |
 | Voces de Chernóbil: Crónica del futuro | Svetlana Alexievich | 5 | 4.4 | 2024-08-07 |
 | Días sin ti | Elvira Sastre | 5 | 4.07 | 2024-05-04 |
+| Así gobierna Gustavo Petro | Ariel Ávila | 4 | 3.67 | 2025-08-20 |
 | Infocracia: La digitalización y la crisis de la democracia | Byung-Chul Han | 5 | 4.09 | 2025-10-09 |
 # To Read
 
