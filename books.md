@@ -1,6 +1,6 @@
 # Bash Books
 
-_Last updated: 2025-10-19 14:55:00_
+_Last updated: 2025-11-07 14:18:00_
 
 
 
@@ -96,6 +96,8 @@ _Last updated: 2025-10-19 14:55:00_
 | Días sin ti | Elvira Sastre | 5 | 4.07 | 2024-05-04 |
 | Así gobierna Gustavo Petro | Ariel Ávila | 4 | 3.67 | 2025-08-20 |
 | Infocracia: La digitalización y la crisis de la democracia | Byung-Chul Han | 5 | 4.09 | 2025-10-09 |
+| La sociedad del cansancio | Byung-Chul Han | 5 | 3.9 | 2025-11-07 |
+
 # To Read
 
 | Title | Author |
