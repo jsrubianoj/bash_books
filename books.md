@@ -97,6 +97,7 @@ _Last updated: 2025-11-07 14:18:00_
 | Así gobierna Gustavo Petro | Ariel Ávila | 4 | 3.67 | 2025-08-20 |
 | Infocracia: La digitalización y la crisis de la democracia | Byung-Chul Han | 5 | 4.09 | 2025-10-09 |
 | La sociedad del cansancio | Byung-Chul Han | 5 | 3.9 | 2025-11-07 |
+| ¿Sueñan los androides con ovejas eléctricas? | Philip K. Dick | 5 | 4.1 | 2025-11-29 |
 
 # To Read
 
